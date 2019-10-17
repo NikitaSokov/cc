@@ -1,0 +1,144 @@
+body {
+	max-height: 31086px;
+	max-width: 1280px;
+	margin: 0
+}
+
+.shapka {
+	max-height: 324px;
+	background-color: #445162;
+}
+
+#rectangle {
+	width: 1280px;
+	height: 324px;
+	background: #445162;
+	margin-bottom: 0px;
+}
+
+#shapka {
+	margin: 0px;
+	position: fixed;
+	left: 50px;
+	top: 50px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	color: #ffffff;
+}
+
+#galka1 {
+	position: fixed;
+	left: 50px;
+	top: 142px;
+}
+
+#fast {
+	position: fixed;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	left: 80px;
+	top: 120px;
+	font-size: 20px;
+	color: #ffffff;
+}
+
+#mnogo{
+	position: fixed;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	left: 80px;
+	top: 120px;
+	font-size: 20px;
+	color: #ffffff;
+	left: 80px;
+	top: 155px;
+
+}
+#galka2 {
+	position: fixed;
+	left: 50px;
+	top: 177px;
+
+}
+
+#galka3 {
+	position: fixed;
+	left: 50px;
+	top: 213px;
+
+}
+
+#good{
+
+	position: fixed;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	left: 80px;
+	top: 190px;
+	font-size: 20px;
+	color: #ffffff;
+
+}
+
+#galka4 {
+	position: fixed;
+	left: 50px;
+	top: 249px;
+}
+
+#cena{
+	position: fixed;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	left: 80px;
+	top: 226px;
+	font-size: 20px;
+	color: #ffffff;
+}
+
+#carta{
+	position: fixed;
+	left: 761px;
+	font-size: 30px;
+	color: white;
+}
+
+.yandex{
+	position: fixed;
+	left: 800px;
+	top: 80px;
+
+}
+
+.infa{
+	max-height: 393px;
+	position: fixed;
+	top: 310px;
+
+
+}
+
+#onas{
+	position: fixed;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	color: #445161;
+	left: 51px;
+	top : 372px;
+	font-size: 30px;
+
+}
+
+#text1{
+	position: fixed;
+	color: #333333;
+	left: 51px;
+	top : 420px;
+	font-size: 25px;
+
+
+
+}
+
+#comp{
+	position: fixed;
+	width: 430px;
+	height: 245px;
+	left: 800px;
+	top: 373px;
+
+}
