@@ -5,8 +5,6 @@ body {
 	padding: 0;
 }
 
-
-
 .shapka {
 	max-height: 324px;
 	background-color: #445162;
@@ -92,8 +90,6 @@ body {
 	position: relative;
 }
 
-
-
 #carta {
 	position: relative;
 	bottom: 350px;
@@ -103,11 +99,9 @@ body {
 }
 
 .yandex {
-	position: relative;
 	position: absolute;
-
 	left: 800px;
-	bottom: 590px;
+	top: 80px;
 }
 
 .infa {
@@ -185,52 +179,50 @@ body {
 	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	color: #445161;
-
 }
 
-#plus1{
+#plus1 {
 	position: absolute;
 	position: relative;
 	top: 390px;
 	left: 50px;
 }
 
-#oplata{
-
+#oplata {
 	position: absolute;
 	position: relative;
 	top: 338px;
 	left: 90px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	color: #333333;
-	font-size:20px;
+	font-size: 20px;
 }
 
-#plus2{
+#plus2 {
 	position: absolute;
 	position: relative;
 	top: 390px;
 	left: 50px;
 }
 
-#plus3{
+#plus3 {
 	position: absolute;
 	position: relative;
 	top: 390px;
 	left: 50px;
 }
 
-#dovol{
+#dovol {
 	position: absolute;
 	position: relative;
 	top: 338px;
 	left: 90px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	color: #333333;
-	font-size:20px;
+	font-size: 20px;
 }
 
-.left_plusiki{
+.left_plusiki {
 	position: absolute;
 	position: relative;
 	left: 640px;
@@ -239,25 +231,20 @@ body {
 	padding: 0;
 }
 
-#plus4{
-
+#plus4 {
 	position: absolute;
 	position: relative;
 	right: 35px;
-
 }
 
-#plus5{
+#plus5 {
 	position: absolute;
 	position: relative;
 	top: 100px;
 	left: -36px;
-
 }
 
-
-
-#plus6{
+#plus6 {
 	margin: 0;
 	padding: 0;
 	position: absolute;
@@ -273,52 +260,88 @@ body {
 	margin-bottom: 0px;
 }
 
-#helpa{
+#helpa {
 	position: absolute;
 	position: relative;
 	bottom: 50px;
 	left: 10px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	color: #333333;
-	font-size:20px;
+	font-size: 20px;
 }
 
-#lgoti{
+#lgoti {
 	position: relative;
 	position: absolute;
 	bottom: -70px;
 	left: 10px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	color: #333333;
-	font-size:20px;
+	font-size: 20px;
 }
 
-#rasr{
+#rasr {
 	position: absolute;
 	position: relative;
 	bottom: 50px;
 	left: 10px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	color: #333333;
-	font-size:20px;
+	font-size: 20px;
 }
 
-.div{
+.div {
 	max-height: 437;
 }
 
-#costil{
+#costil {
 	position: absolute;
 	position: relative;
 	bottom: -437px;
 }
 
-#news{
+#naws{
 	position: absolute;
 	position: relative;
-	font-size: 30px;
-	top: -30px;
+	top: -10px;
 	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 30px;
 	color: #445161;
+
+}
+
+
+
+.leviy_screan{
+	position: relative;
+	position: absolute;
+
+	left: 50px;
+
+}
+
+#samsungik{
+	position: relative;
+	position: absolute;
+
+
+	top: 170px;
+
+}
+
+#iphoneh{
+	position: relative;
+	left: 260px;
+
+	font-size: 24px;
+	color: #445161;
+}
+
+#opisanie_iphone{
+	position: relative;
+	color: #333333;
+	left: 255px;
+	top: -25px;
+	font-size: 25px;
 }
