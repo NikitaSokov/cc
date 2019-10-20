@@ -355,3 +355,11 @@ body {
 	font-size: 24px;
 	color: #445161;
 }
+
+#opisanie_samsung{
+	position: relative;
+	color: #333333;
+	left: 255px;
+	top: -50px;
+	font-size: 25px;
+}
