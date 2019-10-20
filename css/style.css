@@ -1,0 +1,393 @@
+body {
+	max-height: 3186;
+	margin: 0;
+	overflow-x: hidden;
+	padding: 0;
+}
+
+.shapka {
+	max-height: 324px;
+	background-color: #445162;
+}
+
+#rectangle {
+	width: 1280px;
+	height: 324px;
+	background: #445162;
+	margin-bottom: 0px;
+}
+
+#shapka {
+	margin: 0px;
+	position: relative;
+	left: 50px;
+	top: 50px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	color: #ffffff;
+}
+
+#galka1 {
+	position: relative;
+	left: 50px;
+	top: 85px;
+}
+
+#fast {
+	position: relative;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	left: 80px;
+	top: 40px;
+	font-size: 20px;
+	color: #ffffff;
+}
+
+#mnogo {
+	position: relative;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	left: 80px;
+	top: 10px;
+	font-size: 20px;
+	color: #ffffff;
+}
+
+#galka2 {
+	position: relative;
+	left: 50px;
+	top: 30px;
+}
+
+#galka3 {
+	position: relative;
+	left: 50px;
+	bottom: 30px;
+}
+
+#good {
+	position: relative;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	left: 80px;
+	bottom: 50px;
+	font-size: 20px;
+	color: #ffffff;
+}
+
+#galka4 {
+	position: relative;
+	left: 50px;
+	bottom: 90px;
+}
+
+#cena {
+	position: relative;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	left: 80px;
+	bottom: 188px;
+	font-size: 20px;
+	color: #ffffff;
+}
+
+.mitut {
+	position: relative;
+}
+
+#carta {
+	position: relative;
+	bottom: 350px;
+	left: 761px;
+	font-size: 30px;
+	color: white;
+}
+
+.yandex {
+	position: absolute;
+	left: 800px;
+	top: 80px;
+}
+
+.infa {
+	max-height: 393px;
+	position: relative;
+	top: 310px;
+}
+
+.xz {
+	position: relative;
+	position: absolute;
+}
+
+#onas {
+	position: relative;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	color: #445161;
+	left: 51px;
+	bottom: 380px;
+	font-size: 30px;
+}
+
+#text1 {
+	position: relative;
+	color: #333333;
+	left: 51px;
+	bottom: 410px;
+	font-size: 25px;
+}
+
+#comp {
+	position: relative;
+	width: 430px;
+	height: 245px;
+	left: 800px;
+	top: -278px;
+}
+
+#eone {
+	width: 600px;
+}
+
+.pkg {
+	position: absolute;
+	top: 1900px;
+}
+
+#text2 {
+	position: relative;
+	color: #333333;
+	left: 51px;
+	bottom: 360px;
+	font-size: 25px;
+}
+
+.pochemu {
+	position: absolute;
+	position: relative;
+	top: 180px;
+	left: 50px;
+	color: #445161;
+	font-size: 19px;
+}
+
+#conec {
+	position: absolute;
+	position: relative;
+	top: 3000px;
+}
+
+#somn {
+	position: absolute;
+	position: relative;
+	top: 350px;
+	text-align: center;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	color: #445161;
+}
+
+#plus1 {
+	position: absolute;
+	position: relative;
+	top: 390px;
+	left: 50px;
+}
+
+#oplata {
+	position: absolute;
+	position: relative;
+	top: 338px;
+	left: 90px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 20px;
+}
+
+#plus2 {
+	position: absolute;
+	position: relative;
+	top: 390px;
+	left: 50px;
+}
+
+#plus3 {
+	position: absolute;
+	position: relative;
+	top: 390px;
+	left: 50px;
+}
+
+#dovol {
+	position: absolute;
+	position: relative;
+	top: 338px;
+	left: 90px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 20px;
+}
+
+.left_plusiki {
+	position: absolute;
+	position: relative;
+	left: 640px;
+	top: 90px;
+	margin: 0;
+	padding: 0;
+}
+
+#plus4 {
+	position: absolute;
+	position: relative;
+	right: 35px;
+}
+
+#plus5 {
+	position: absolute;
+	position: relative;
+	top: 100px;
+	left: -36px;
+}
+
+#plus6 {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	position: relative;
+	top: 0px;
+	left: -72px;
+}
+
+.rectangle-ban {
+	width: 1280px;
+	height: 340px;
+	background: #e4e4e4;
+	margin-bottom: 0px;
+}
+
+#helpa {
+	position: absolute;
+	position: relative;
+	bottom: 50px;
+	left: 10px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 20px;
+}
+
+#lgoti {
+	position: relative;
+	position: absolute;
+	bottom: -70px;
+	left: 10px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 20px;
+}
+
+#rasr {
+	position: absolute;
+	position: relative;
+	bottom: 50px;
+	left: 10px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 20px;
+}
+
+.div {
+	max-height: 437;
+}
+
+#costil {
+	position: absolute;
+	position: relative;
+	bottom: -437px;
+}
+
+#naws {
+	position: absolute;
+	position: relative;
+	top: -10px;
+	text-align: center;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #445161;
+}
+
+.leviy_screan {
+	position: relative;
+	position: absolute;
+	left: 50px;
+}
+
+#samsungik {
+	position: relative;
+	position: absolute;
+	top: 170px;
+}
+
+#iphoneh {
+	position: relative;
+	left: 260px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #445161;
+}
+
+#opisanie_iphone {
+	position: relative;
+	color: #333333;
+	left: 255px;
+	top: -25px;
+	font-size: 25px;
+}
+
+#samsungnow {
+	position: relative;
+	top: -20px;
+	left: 260px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #445161;
+}
+
+#opisanie_samsung {
+	position: relative;
+	color: #333333;
+	left: 255px;
+	top: -50px;
+	font-size: 25px;
+}
+
+.praviy_screan {
+	position: relative;
+	position: absolute;
+	right: 360px;
+	top: 1206px;
+}
+
+#stekloimg{
+	position: relative;
+	position: absolute;
+	left: 100px;
+}
+
+#konkurs {
+	position: relative;
+	position: absolute;
+	top: 170px;
+	right: 0px;
+}
+
+#steklixo {
+	position: relative;
+	left: 310px;
+	top: -20px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #445161;
+}
+
+#steklixo_text{
+	position: relative;
+	color: #333333;
+	top: -40px;
+	right: -305px;
+	font-size: 25px;
+}
