@@ -415,3 +415,69 @@ body {
 	font-size: 24px;
 	color: #0645AD;
 }
+
+.rectangle_com{
+	width: 1280px;
+	height: 424px;
+	background: #E4E4E4;
+	margin-bottom: 0px;
+	position: relative;
+	position: absolute;
+	top: 1550px;
+}
+
+#otzivi{
+	position: absolute;
+	position: relative;
+	top: -70px;
+	text-align: center;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #445161;
+}
+
+#photo1{
+	position: absolute;
+	position: relative;
+	left: 50px;
+	top: 110px;
+}
+
+#otzivodin{
+	position: absolute;
+	position: relative;
+	left: 142px;
+	top: 30px;
+}
+
+#otziv1_text{
+	position: absolute;
+	position: relative;
+	top: -100px;
+	left: 158px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 24px;
+}
+
+#ded{
+	position: absolute;
+	position: relative;
+	left: 50px;
+	top: -75px
+}
+
+#otzivodin2{
+	position: absolute;
+	position: relative;
+	left: 50px;
+	top: -45px
+}
+
+#otziv2_text{
+	position: absolute;
+	position: relative;
+	left: 144px;
+	top: 310px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 24px;
+}
