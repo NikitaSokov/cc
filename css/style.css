@@ -618,7 +618,6 @@ body {
 }
 
 #dengi_1k {
-  background-image: url("1000₽.png");
   position: absolute;
   left: 835px;
   top: 174px;
@@ -631,20 +630,81 @@ body {
 
 
   position: absolute;
-	position: relative;
+
   left: 490px;
-  top: 199px;
+  top: 280px;
   width: 300px;
   height: 71px;
   z-index: 146;
 }
 
 #dengi_100r {
-  background-image: url("100₽.png");
   position: absolute;
   left: 145px;
   top: 367px;
   width: 300px;
   height: 71px;
   z-index: 135;
+}
+
+
+.standar{
+
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.714;
+  text-align: left;
+  position: absolute;
+  left: 165px;
+  top: 429.517px;
+  width: 242px;
+  height: 86px;
+  z-index: 137;
+}
+
+.premka {
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.714;
+  text-align: left;
+  position: absolute;
+  left: 510px;
+  top: 361.517px;
+  width: 242px;
+  height: 182px;
+  z-index: 148;
+}
+
+.luxka {
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.714;
+  text-align: left;
+  position: absolute;
+  left: 855px;
+  top: 266.517px;
+  width: 250px;
+  height: 278px;
+  z-index: 191;
+}
+
+
+
+
+
+
+.knopka500r{
+	position: absolute;
+	position: relative;
+	z-index: 193;
+	top: 550px;
+}
+
+
+#textbutt{
+	font-family: "Arial";
+	font-size: 30px;
 }
